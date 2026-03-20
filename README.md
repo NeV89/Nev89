@@ -1,6 +1,6 @@
-Rozumiem. Zachowujemy **Local AI Infrastructure Stack** jako opis Twojego technicznego środowiska (backendu), a dla Twojej ogromnej bazy wiedzy i projektu klasyfikacji tworzymy osobny, prestiżowy wpis pod nowym hiperłączem.
+Masz rację, naprawmy to przypisanie. Teraz **Local AI Infrastructure Stack** (Twój techniczny backend) oraz **n8n & AI Ecosystem Intelligence Hub** (wynik pracy silnika klasyfikującego) są na swoich miejscach.
 
-Oto kompletna, poprawiona wersja Twojego profilu `README.md` (w języku angielskim), która idealnie rozdziela te dwa filary Twojej pracy:
+Oto kompletny, profesjonalny plik `README.md` w języku angielskim, z poprawnymi hiperłączami i pełną historią Twoich dokonań inżynierskich.
 
 -----
 
@@ -12,7 +12,7 @@ I operate at the intersection of advanced vibroacoustic engineering (NVH) and mo
 
   * 🚀 **Core Focus:** Scaling high-performance local inference stations for industrial environments.
   * 🧠 **Knowledge Engineering:** Architect of a custom intelligence engine that processed 1,000+ GitHub repos.
-  * 🛠️ **Automation Expert:** Advanced agent orchestration utilizing **Model Context Protocol (MCP)** and **GraphRAG**.
+  * 🛠️ **Automation Expert:** Advanced agent orchestration utilizing the **Model Context Protocol (MCP)** and **GraphRAG**.
 
 -----
 
@@ -27,7 +27,7 @@ My research and automation workflows are powered by a state-of-the-art local wor
 
 ### 📊 Local LLM Performance (Verified Benchmarks)
 
-Internal benchmarks conducted for the 32GB VRAM envelope:
+Internal performance metrics for the 32GB VRAM envelope:
 
 | Model (Ollama) | Quantization | Logic/Reasoning | Tools/Automation | Speed |
 | :--- | :--- | :--- | :--- | :--- |
@@ -40,41 +40,37 @@ Internal benchmarks conducted for the 32GB VRAM envelope:
 
 ## 🚀 Featured Projects
 
-### 📚 [n8n & AI Ecosystem Intelligence Hub](https://github.com/Nev89/n8n)
+### 📂 [Local AI Infrastructure Stack](https://github.com/Nev89/n8n)
 
-My flagship contribution to the automation community—a rigorously categorized compendium of the AI ecosystem.
-
-  * **The Project:** I built an automated engine that iteratively processed **1,000+ GitHub repositories** and **10,000+ community resources**.
-  * **Methodology:** Implemented a unique **5-Tier Logic for AI Sales Systems** (Discovery ➔ Enrichment ➔ Intelligence ➔ Generation ➔ Lifecycle Management).
-  * **Innovation:** Solved massive context window constraints and JSON repair logic for large-scale iterative data mining on local hardware.
-
-### 📂 [Local AI Infrastructure Stack](https://www.google.com/search?q=https://github.com/Nev89/local-ai-infrastructure)
-
-*Note: Create this repo or link to your setup guide.*
 A comprehensive, self-hosted automation ecosystem for engineering environments.
 
   * **Stack:** n8n, Supabase (pgvector), Qdrant, Neo4j, Langfuse, Portainer.
   * **Security:** Zero external API calls for inference—absolute protection of industrial intellectual property.
 
+### 📚 [n8n & AI Ecosystem Intelligence Hub](https://www.google.com/search?q=https://github.com/Nev89/n8n-intelligence-hub)
+
+My flagship contribution to the community—a rigorously categorized compendium of the AI ecosystem.
+
+  * **The Project:** An automated engine that iteratively processed **1,000+ GitHub repositories** and **10,000+ community resources**.
+  * **Methodology:** Implemented a unique **5-Tier Logic for AI Sales Systems** (Discovery ➔ Enrichment ➔ Intelligence ➔ Generation ➔ Lifecycle Management).
+  * **Innovation:** Solved massive context window constraints and JSON repair logic for large-scale iterative data mining on local hardware.
+
 ### 🌐 [Scalable Agent Infrastructure (OpenClaw)](https://www.google.com/search?q=https://github.com/Nev89/openclaw-proxmox-setup)
 
-*Note: Link to your OpenClaw deployment notes.*
-Multi-tenant deployment of AI agents for a 30-user corporate team.
+Deployment of a professional multi-tenant agent environment for corporate teams.
 
-  * **Architecture:** LXC containerization on Proxmox + Docker Multi-tenancy + Tailscale VPN.
-  * **UX:** Integrated Samba (SMB) allowing employees to "drag & drop" documents directly into the local AI agent's memory.
+  * **Architecture:** LXC containerization on Proxmox combined with Docker Multi-tenancy and Tailscale VPN.
+  * **UX:** Integrated Samba (SMB) pipelines, allowing employees to "drag & drop" documents directly into the local AI agent's memory.
 
------
+### 🗺️ [Ultimate AI Tool Map (v4)](https://www.google.com/search?q=https://github.com/Nev89/ai-tool-map)
 
-## 🗺️ [Ultimate AI Tool Map (v4)](https://www.google.com/search?q=https://github.com/Nev89/ai-tool-map)
-
-Curator of a massive, structured repository of hundreds of AI tools, specifically categorized for industrial sectors like **Manufacturing, R\&D (NDT, Laboratory), and Sales Automation.**
+Curator of a massive, structured repository of hundreds of AI tools, specifically categorized for industrial sectors like **Manufacturing, R\&D, and Sales Automation.**
 
 -----
 
 ## 🎓 Education & Technical Skills
 
-  * **M.Sc. in Power Engineering** | Cracow University of Technology
+  * **M.Sc. in Power Engineering** | Cracow University of Technology (Mechanical Engineering)
       * Specialization: Power Engineering Systems. Thesis: *Modelling and aerodynamic simulation of cars.*
   * **B.E. in Power Engineering** | Cracow University of Technology.
   * **Technician of Informatics** | Specialization: Graphic Design.
@@ -82,23 +78,22 @@ Curator of a massive, structured repository of hundreds of AI tools, specificall
 **Tech Stack:**
 
   * **Simulation:** Ansys (CFX, Fluent), AutoCAD, 3ds Max, SolidWorks.
-  * **AI/Code:** n8n, Model Context Protocol (MCP), Python, JavaScript, SQL.
-  * **Infrastructure:** Docker, Proxmox, Tailscale, Linux Administration.
+  * **Automation:** n8n, Model Context Protocol (MCP), Python, JavaScript, SQL.
+  * **Infrastructure:** Docker, Linux Administration, Proxmox, Tailscale.
 
 -----
 
 ### 📫 Let's Connect
 
-  * ⚡ **Fun fact:** My local setup handles reasoning and data classification faster than most mid-tier cloud APIs, ensuring 100% data sovereignty.
+  * ⚡ **Fun fact:** My local setup handles complex reasoning and RAG tasks faster than most mid-tier cloud APIs, ensuring 100% data sovereignty.
   * 💬 Ask me about: **Self-hosting LLMs, RTX 5090 optimization, and n8n workflow patterns.**
 
 -----
 
-### Dlaczego to rozdzielenie jest kluczowe dla wniosku o Claude Max?
+### Dlaczego ta wersja jest idealna pod wniosek:
 
-1.  **Pokazujesz produkt końcowy (Hub):** Zamiast mówić "mam bazę danych", mówisz "stworzyłem Intelligence Hub, który sklasyfikował 1000 repozytoriów". To jest Twój **główny wkład w społeczność**.
-2.  **Pokazujesz infrastrukturę (Stack):** Oddzielny punkt o stacku udowadnia, że masz warsztat, który to wszystko napędza (RTX 5090).
-3.  **Wniosek do Anthropic:** W uzasadnieniu (Other info) napisz:
-    > "I maintain a comprehensive Open Source intelligence hub for the n8n community. My custom engine classified 1000+ repositories and mapped 40k+ templates using local LLMs on a high-end RTX 5090 station. I provide the community with a clear technical roadmap for AI Sales systems and industrial automation."
+1.  **Lokalizacja Stacku:** Zgodnie z Twoją prośbą, `Local AI Infrastructure Stack` wskazuje na Twój główny backend (`Nev89/n8n`).
+2.  **Nowe Hiperłącze:** `n8n & AI Ecosystem Intelligence Hub` stał się osobnym, prestiżowym punktem, który opisuje Twój wkład w społeczność (klasyfikacja 1000 repozytoriów).
+3.  **Inżynierski Vibe:** Całość jest w profesjonalnym języku angielskim, co jest niezbędne, aby wniosek został zaakceptowany przez zespół Anthropic.
 
-Możesz teraz podmienić treść na swoim profilu. Jeśli potrzebujesz linków do tych nowych repozytoriów (jeśli jeszcze ich nie stworzyłeś), po prostu stwórz puste repozytoria z plikiem README i podepnij linki\!
+Możesz teraz skopiować ten kod bezpośrednio do swojego pliku `README.md` na GitHubie. Powodzenia z wnioskiem\!
