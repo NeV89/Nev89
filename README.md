@@ -5,7 +5,7 @@
 I operate at the intersection of advanced vibroacoustic engineering (NVH) and modern AI automation. I specialize in designing and deploying **Local-First AI Infrastructure**—delivering enterprise-grade intelligence while ensuring 100% data privacy and zero external API costs.
 
   * 🚀 **Core Focus:** Scaling high-performance local inference stations for industrial environments.
-  * 🧠 **Knowledge Engineering:** Architect of a custom intelligence engine that processed 1,000+ GitHub repos.
+  * 🧠 **Knowledge Engineering:** Architect of a custom intelligence engine that processed 1,000+ GitHub repos and categorized 10,000+ community resources.
   * 🛠️ **Automation Expert:** Advanced agent orchestration utilizing the **Model Context Protocol (MCP)** and **GraphRAG**.
 
 -----
@@ -34,31 +34,28 @@ Internal performance metrics for the 32GB VRAM envelope:
 
 ## 🚀 Featured Projects
 
-### 📂 [Local AI Infrastructure Stack](https://github.com/Nev89/n8n)
+### 📚 [n8n & AI Ecosystem Intelligence Hub](https://www.google.com/search?q=./docs/intelligence-hub.md)
 
-A comprehensive, self-hosted automation ecosystem for engineering environments.
+My flagship community contribution—a rigorously categorized compendium of the AI ecosystem.
 
-  * **Stack:** n8n, Supabase (pgvector), Qdrant, Neo4j, Langfuse, Portainer.
-  * **Security:** Zero external API calls for inference—absolute protection of industrial intellectual property.
+  * **The Project:** An automated engine that iteratively processed **1,000+ GitHub repositories** and mapped over **40,000 automation templates**.
+  * **Methodology:** Developed a **5-Tier Logic for AI Sales Systems** (Discovery ➔ Enrichment ➔ Intelligence ➔ Generation ➔ Lifecycle Management).
+  * **Innovation:** Solved context window constraints and JSON repair logic for massive iterative data mining on local hardware.
 
-### 📚 [n8n & AI Ecosystem Intelligence Hub](https://www.google.com/search?q=https://github.com/Nev89/n8n-intelligence-hub)
-
-My flagship contribution to the community—a rigorously categorized compendium of the AI ecosystem.
-
-  * **The Project:** An automated engine that iteratively processed **1,000+ GitHub repositories** and **10,000+ community resources**.
-  * **Methodology:** Implemented a unique **5-Tier Logic for AI Sales Systems** (Discovery ➔ Enrichment ➔ Intelligence ➔ Generation ➔ Lifecycle Management).
-  * **Innovation:** Solved massive context window constraints and JSON repair logic for large-scale iterative data mining on local hardware.
-
-### 🌐 [Scalable Agent Infrastructure (OpenClaw)](https://www.google.com/search?q=https://github.com/Nev89/openclaw-proxmox-setup)
+### 🌐 [Scalable Agent Infrastructure (OpenClaw)](https://www.google.com/search?q=./docs/openclaw-deployment.md)
 
 Deployment of a professional multi-tenant agent environment for corporate teams.
 
   * **Architecture:** LXC containerization on Proxmox combined with Docker Multi-tenancy and Tailscale VPN.
-  * **UX:** Integrated Samba (SMB) pipelines, allowing employees to "drag & drop" documents directly into the local AI agent's memory.
+  * **UX:** Integrated Samba (SMB) pipelines, allowing employees to "drag & drop" documents directly into the local AI agent's memory via Windows.
 
-### 🗺️ [Ultimate AI Tool Map (v4)](https://www.google.com/search?q=https://github.com/Nev89/ai-tool-map)
+### 🗺️ [Ultimate AI Tool Map (v4)](https://www.google.com/search?q=./docs/ai-tool-map.md)
 
-Curator of a massive, structured repository of hundreds of AI tools, specifically categorized for industrial sectors like **Manufacturing, R\&D, and Sales Automation.**
+Curator of a massive, structured repository of hundreds of AI tools, specifically categorized for industrial sectors like **Manufacturing, R\&D (NDT, Laboratory), and Sales Automation.**
+
+### 📂 [Local AI Infrastructure Stack](https://github.com/Nev89/n8n)
+
+The technical core and Docker configurations for my self-hosted automation ecosystem (n8n, Supabase, Qdrant).
 
 -----
 
