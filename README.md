@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Paweł Wójcikiewicz (Nev89)
+# Hi there 👋 I'm Paweł Wójcikiewicz
 
 ### 🤖 Local AI Infrastructure Architect | AI Ecosystem Intelligence | Solutions Advisor
 
